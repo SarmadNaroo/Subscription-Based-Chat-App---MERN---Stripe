@@ -44,16 +44,20 @@ To get started with the project, follow these steps:
 
 ## Screenshots
 
-**Login page**  
+**Login page** 
+
 ![ss22](https://github.com/user-attachments/assets/8ac47a2e-a437-4f16-ba7b-9c0b784e4221)
 
 **Signup Page** 
+
 ![signup](https://github.com/user-attachments/assets/d5a6c931-cc73-479f-a45c-7beed0e850ab)
 
 **Subscription Page** 
+
 ![payment Screen](https://github.com/user-attachments/assets/5edeebba-6111-4b13-9f5c-7f94742541a4)
 
 **Chat Interface**  
+
 ![chat screen](https://github.com/user-attachments/assets/c94a7159-454e-45e8-97d2-f5958a05086e)
 
 ## License
